@@ -1,6 +1,6 @@
 ''' Author: Chris Whipple
-    Date:  6/11/26
-    Assignment:  Milestone 5 - Average Rainfall
+    Date:  6/26/26
+    Assignment:  Milestone 7 - Function Development
     Description:    Task:   Step 1: Data Specifications
                             Create three separate dictionaries to store the following data. In each dictionary, the Course Number must serve as the Key.
 
